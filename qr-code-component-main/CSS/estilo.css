@@ -1,0 +1,32 @@
+body{
+    background-color: #D6E1F0; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.principal{
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    width: 250px;
+    background-color: white;
+    position: relative;
+    right: 150px;
+    top: 100px;
+    left: 590px;
+    border-radius: 5%;
+}
+#imagem{
+    position: relative;
+    top: 15px;
+    right: 10px;
+    left: -1px;
+    border-radius: 5%;
+}
+.texto{
+    text-align: center;
+}
+p{
+    color: grey;
+}
+h3{
+    padding: 10px;
+}
